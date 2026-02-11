@@ -1,2 +1,2 @@
-# new-york-taxi-analysis
+# new york taxi analysis
 my first project
